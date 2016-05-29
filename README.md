@@ -6,5 +6,5 @@ Estoy modificando el archivo readme. Todo lo que haga se va a guardar en el bran
 
 Esta es la segunda vez que escribo sobre readme, en el branch "readme-edits". No debiese escribir estas cosas, pq cuando haga el merge al master, se van a agregar estos comentarios estúpidos. 
 
-Tercer commit. Ahora escribiré algunas cosas más interesantes. Por una parte, noto que aunque yo solo haya realizado 2 commits, la página muestra como su hubiera hecho 3. Esto seguramente es por el commit inicial al crear el branch. 
+Tercer commit. Ahora escribiré algunas cosas más interesantes. Por una parte, noto que aunque yo solo haya realizado 2 commits, la página muestra como su hubiera hecho 3. Eso se debe al commit inicial al crear el branch. 
 Otra cosa interesante, es que uno debiese trabajar en los branches pensando que se está en el master. Al final todo es parte de un mismo proyecto. 
